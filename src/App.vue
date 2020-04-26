@@ -17,10 +17,14 @@ export default {
     return {
       msg: 'msg',
       data: 'data',
-      row: 'row'
+      row: 'row',
+      a: 'aaa',
+      b: 'bbb',
+      c: 'ccc'
     }
   }
 }
+
 </script>
 
 <style>
