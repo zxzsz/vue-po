@@ -11,9 +11,14 @@ export default {
   name: 'App',
   components: {
     HelloWorld
+    // hello
   },
   data() {
-    return {}
+    return {
+      msg: 'msg',
+      data: 'data',
+      row: 'row'
+    }
   }
 }
 </script>
